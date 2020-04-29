@@ -1,7 +1,2 @@
-echo "# Dados-sobre-covid-19-na-Bahia" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/NinjaSSGSS/Dados-sobre-covid-19-na-Bahia.git
-git push -u origin master
-                
+Conjunto de gráficos construído em cima do dataset do Git <https://github.com/wcota/covid19br.git>, que têm como intuito revelar
+a situação dos municípios da Bahia
